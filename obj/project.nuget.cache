@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "68+o1cTh34ZqT51r1+v/U79ZCA1mDCYI5kgunjgIHj4i5jnx6P1iZvfvkRP5zX/xWzVr50ewEzltAaA+u3NQ8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MShafi\\source\\repos\\ConsoleApp_Docker_Core\\ConsoleApp_Docker_Core\\ConsoleApp_Docker_Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MShafi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
